@@ -1,0 +1,1 @@
+C:\Users\Walawe101\.pyenv\pyenv-win\shims\python Pert7.py
